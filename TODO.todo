@@ -1,0 +1,16 @@
+Analysis:
+    ☐ Top tracks + artists
+    ☐ Timeseries plot 
+    ☐ Repetitions of specific tracks & artists
+    ☐ Connect to API to get track information (e.g. danceability) @started(24-05-09 22:54)
+        ☐ Milliseconds played -> percentage played?
+        ☐ Genre of music
+    ☐ What songs are being skipped? @started(24-05-09 19:13)
+    ☐ Create model on predicting genre of music based on time of day, type of platform, etc.
+    ☐ Spotify lyrics -- what types of content?
+        topic modeling, clustering?
+        https://raizelb.medium.com/how-to-access-and-use-the-spotify-and-lyricgenius-api-a5563ef7f7b1 
+    ☐ What types of songs are being listened to on desktop vs phone?
+
+
+Archive:
